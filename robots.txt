@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cryptowealthlab.com/blog-cryptowealthlab/sitemap.xml
